@@ -15,12 +15,16 @@ textarea {
 
 .jumbotron {
   text-align: center;
-  background-color: transparent;
+  background-color: blue;
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
 }
+.container {
+  border: solid black 2px; 10px solid black;
+  border-bottom:
 
+}
 .description {
   white-space: pre-wrap;
 }
@@ -28,6 +32,7 @@ textarea {
 .time-block {
   text-align: center;
   border-radius: 15px;
+  border: solid black 2px;
 }
 
 .row {
@@ -61,7 +66,7 @@ textarea {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06aed5;
+  background-color: blue;
   color: white;
 }
 
