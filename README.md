@@ -16,7 +16,8 @@ Daily Planner App Module 7 Challenge
 ```
 A simple & easy to use calendar application to allow show your added events. 
 The views available show hour by hour to enable you to maximise your time as well as changing what you can view at a glance
-
+https://bibbleboop.github.io/Daily-Planner-App/
+deployed page.png
 ```
 
 ## Installation
